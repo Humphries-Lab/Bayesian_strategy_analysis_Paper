@@ -1,7 +1,7 @@
 # Bayesian_strategy_analysis_Paper
 Code and data for the Bayesian strategy analysis paper
 
-This repository contains the code used to generate the results in our paper on a new Bayesian algorithm for tracking a subject's behavioural strategy on each trial: https://doi.org/10.1101/2022.08.30.505807
+This repository contains the code used to generate the results in our paper on a new Bayesian algorithm for tracking a subject's behavioural strategy on each trial. Read the paper at eLife: https://doi.org/10.7554/eLife.86491
 
 It also contains three of the four datasets used in the paper: 
 * Y-maze task (rats): all behavioural sessions we used. From Peyrache et al (2009) Nature Neuroscience. Full data are available at https://crcns.org/data-sets/pfc/pfc-6/about-pfc-6
